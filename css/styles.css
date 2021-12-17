@@ -1,5 +1,5 @@
-body {
-    background-color: #FEE3EC;
+*{
+    margin:0;
 }
 hr {
     background-color: #FEE3EC;
@@ -9,6 +9,21 @@ hr {
     border-width:5px;
     height: 10px;
     width:5%;
+    
+}
+
+.top-half {
+    background-color: #FEE3EC;
+    
+}
+
+.middle{
+    background-color: #F9C5D5;
+    
+}
+
+.lower-half {
+    background-color: #F999B7;
     
 }
 
